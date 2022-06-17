@@ -1,0 +1,31 @@
+* {
+  font-family: inherit;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+nav {
+    margin-left: 200px;
+  height: 56px;
+  width: auto;
+  background-color: #f5f5f5;
+  margin-bottom: 30px;
+}
+
+.dev__logo {
+    width: 50px;
+    height: 40px;
+}
+
+.create__post {
+/*     margin-left: -90px; */
+}
+
+.edit__btn {
+    /* margin-right: -110px; */
+}
